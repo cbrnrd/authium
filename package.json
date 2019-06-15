@@ -1,0 +1,15 @@
+{
+    "name": "authium",
+    "version": "0.1.0",
+    "description": "A simple software authentication server.",
+    "author": "Carter Brainerd",
+    "license": "MIT",
+    "homepage": "https://github.com/cbrnrd/authium",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cbrnrd/authium.git"
+    },
+    "bugs": {
+      "url": "https://github.com/cbrnrd/authium/issues"
+    }
+  }
